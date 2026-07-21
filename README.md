@@ -8,4 +8,5 @@ Proyecto 1
 #Proyecto-Parcial 2
 
 -[Curso](https://github.com/nrgsanta1-dev/Proyecto-Parcial1/blob/main/Curso.java)
--
+-[Nodo](https://github.com/nrgsanta1-dev/Proyecto-Parcial1/blob/main/Nodo.java)
+
