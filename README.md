@@ -7,7 +7,4 @@ Proyecto 1
 
 #Proyecto-Parcial 2
 
-
-
-
--jwehdh
+-Curso
