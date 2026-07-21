@@ -1,12 +1,12 @@
 public class Curso {
-    // Atributos obligatorios del proyecto
+    
     private String clave;
     private String nombre;
     private String docente;
     private int cupoMaximo;
     private int numeroInscritos;
 
-    // Constructor
+    
     public Curso(String clave, String nombre, String docente, int cupoMaximo) {
         this.clave = clave;
         this.nombre = nombre;
@@ -15,14 +15,14 @@ public class Curso {
         this.numeroInscritos = 0; // Inicializa en cero inscritos
     }
 
-    // Getters y Setters
+    
     public String getClave() { return clave; }
     public String getNombre() { return nombre; }
     public String getDocente() { return docente; }
     public int getCupoMaximo() { return cupoMaximo; }
     public int getNumeroInscritos() { return numeroInscritos; }
 
-    // Métodos lógicos para inscripción y baja
+    
     public boolean inscribirEstudiante() {
         if (numeroInscritos < cupoMaximo) {
             numeroInscritos++;
