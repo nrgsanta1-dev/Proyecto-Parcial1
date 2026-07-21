@@ -6,4 +6,8 @@ Proyecto 1
 -[SistemaGestion](https://github.com/nrgsanta1-dev/Proyecto-Parcial1/blob/main/SistemaGestion.java)
 
 #Proyecto-Parcial 2
+
+
+
+
 -jwehdh
