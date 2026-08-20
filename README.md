@@ -1,4 +1,4 @@
-# Proyecto-Parcial 1 Y 2
+# Proyecto-Parcial 1, 2 y 3
 Proyecto 1
 
 -[Curso](https://github.com/nrgsanta1-dev/Proyecto-Parcial1/blob/main/Curso.java)
