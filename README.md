@@ -21,4 +21,4 @@ Proyecto 1
 
 
 #Proyecto-Parcial 3
--[Main Actualizado]{https://github.com/nrgsanta1-dev/Proyecto-Parcial1/blob/main/Main.java}
+-[Main Actualizado](https://github.com/nrgsanta1-dev/Proyecto-Parcial1/blob/main/Main.java)
