@@ -18,3 +18,5 @@ Proyecto 1
 -[ListaDobleEnlazada](https://github.com/nrgsanta1-dev/Proyecto-Parcial1/blob/main/ListaDobleEnlazada.java)
 
 -[Main](https://github.com/nrgsanta1-dev/Proyecto-Parcial1/blob/main/Main.java)
+#Proyecto-Parcial 3
+-[Main Actualizado]{https://github.com/nrgsanta1-dev/Proyecto-Parcial1/blob/main/Main.java}
