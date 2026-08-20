@@ -23,5 +23,15 @@ Proyecto 1
 #Proyecto-Parcial 3
 
 -[Main Actualizado](https://github.com/nrgsanta1-dev/Proyecto-Parcial1/blob/main/Main.java)
+
 -[Curso](https://github.com/nrgsanta1-dev/Proyecto-Parcial1/blob/main/Curso.java)
--[]()
+
+-[NodoArbolCurso](https://github.com/nrgsanta1-dev/Proyecto-Parcial1/blob/main/NodoArbolCurso.java)
+
+-[ArbolCurso](https://github.com/nrgsanta1-dev/Proyecto-Parcial1/blob/main/ArbolCursos.java)
+
+-[GrafoCurso](https://github.com/nrgsanta1-dev/Proyecto-Parcial1/blob/main/GrafoCursos.java)
+
+-[Ordenamientos](https://github.com/nrgsanta1-dev/Proyecto-Parcial1/blob/main/Ordenamientos.java)
+
+-[Busquedas](https://github.com/nrgsanta1-dev/Proyecto-Parcial1/blob/main/Busquedas.java)
