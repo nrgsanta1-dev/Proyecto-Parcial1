@@ -1,34 +1,51 @@
 public class Curso {
-    
+
+    private int idCurso;
     private String clave;
     private String nombre;
     private String docente;
     private int cupoMaximo;
     private int numeroInscritos;
 
-    
-    public Curso(String clave, String nombre, String docente, int cupoMaximo) {
+    public Curso(int idCurso, String clave, String nombre, String docente, int cupoMaximo) {
+        this.idCurso = idCurso;
         this.clave = clave;
         this.nombre = nombre;
         this.docente = docente;
         this.cupoMaximo = cupoMaximo;
-        this.numeroInscritos = 0; // Inicializa en cero inscritos
+        this.numeroInscritos = 0;
     }
 
-    
-    public String getClave() { return clave; }
-    public String getNombre() { return nombre; }
-    public String getDocente() { return docente; }
-    public int getCupoMaximo() { return cupoMaximo; }
-    public int getNumeroInscritos() { return numeroInscritos; }
+    public int getIdCurso() {
+        return idCurso;
+    }
 
-    
+    public String getClave() {
+        return clave;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public String getDocente() {
+        return docente;
+    }
+
+    public int getCupoMaximo() {
+        return cupoMaximo;
+    }
+
+    public int getNumeroInscritos() {
+        return numeroInscritos;
+    }
+
     public boolean inscribirEstudiante() {
         if (numeroInscritos < cupoMaximo) {
             numeroInscritos++;
             return true;
         }
-        return false; // Retorna falso si el cupo está lleno
+        return false;
     }
 
     public boolean darDeBajaEstudiante() {
@@ -36,12 +53,16 @@ public class Curso {
             numeroInscritos--;
             return true;
         }
-        return false; // Retorna falso si no hay alumnos que dar de baja
+        return false;
     }
 
     @Override
     public String toString() {
-        return "Clave: " + clave + " | Curso: " + nombre + " | Docente: " + docente + 
-               " | Inscritos: " + numeroInscritos + "/" + cupoMaximo;
+        return "ID: " + idCurso +
+               " | Clave: " + clave +
+               " | Curso: " + nombre +
+               " | Docente: " + docente +
+               " | Inscritos: " +
+               numeroInscritos + "/" + cupoMaximo;
     }
 }
